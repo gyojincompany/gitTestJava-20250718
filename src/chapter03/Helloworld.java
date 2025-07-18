@@ -11,6 +11,7 @@ public class Helloworld {
 //		85 = math;
 //		math <- 85;
 		short total;
+		
 	}
 
 }
